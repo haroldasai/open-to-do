@@ -41,4 +41,5 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass'
 gem 'figaro'
+gem 'active_model_serializers', '~> 0.10.0', require: true
 
